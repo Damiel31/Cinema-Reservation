@@ -2,6 +2,8 @@ package comproproject;
 
 import java.util.Scanner;
 import java.util.Arrays;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class ComproProject {
 
@@ -425,7 +427,39 @@ public class ComproProject {
                 System.out.println("C: THIS SCHED IS FULL");
 
                 System.out.println("ALL SCHED ARE FULL TICKETS ARE SOLD OUT!");
-                System.exit(0);
+
+                SimpleDateFormat formatter = new SimpleDateFormat("HH:mm:ss");
+                Date date = new Date();
+
+                if (formatter.format(date) == "12:30:00") {
+
+                    String[] seatsforAF = {"A-0", "A-1", "A-2", "A-3", "A-4", "A-5", "A-6", "A-7", "A-8", "A-9", "A-10",};
+                    for (int x = 0; x < seatsforAF.length; x++) {
+                        seatsforA[x] = seatsforAF[x];
+                    }
+
+                    System.out.print("Sched A is OPEN type Yes to Input new Customer :");
+                    ans = alf.next();
+                }
+                if (formatter.format(date) == "2:30:00") {
+                    String[] seatsforBF = {"B-0", "B-1", "B-2", "B-3", "B-4", "B-5", "B-6", "B-7", "B-8", "B-9", "B-10",};
+                    for (int x = 0; x < seatsforBF.length; x++) {
+                        seatsforB[x] = seatsforBF[x];
+                    }
+
+                    System.out.print("Sched B is Open type Yes to Input new Customer :");
+                    ans = alf.next();
+                }
+                if (formatter.format(date) == "4:30:00") {
+                    String[] seatsforCF = {"C-0", "C-1", "C-2", "C-3", "C-4", "C-5", "C-6", "C-7", "C-8", "C-9", "C-10",};
+                    for (int x = 0; x < seatsforCF.length; x++) {
+                        seatsforC[x] = seatsforCF[x];
+                    }
+                    System.out.print("Sched C is Open type Yes to Input new Customer :");
+                }
+
+                System.out.println("Please wait for vacancies the current time is :" + formatter.format(date));
+
             }
 
             if (HolderB == 0 && HolderC == 0 && HolderA > 0) {
