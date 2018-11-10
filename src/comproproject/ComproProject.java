@@ -361,7 +361,7 @@ public class ComproProject {
 
             }
 
-            if (HolderA == 0 && HolderB == 0) {
+            if (HolderA == 0 && HolderB == 0 && HolderC > 0) {
 
                 System.out.println("**********************");
                 System.out.println("*                    *");
@@ -428,7 +428,7 @@ public class ComproProject {
                 System.exit(0);
             }
 
-            if (HolderB == 0 && HolderC == 0) {
+            if (HolderB == 0 && HolderC == 0 && HolderA > 0) {
 
                 System.out.println("**********************");
                 System.out.println("*                    *");
@@ -476,7 +476,7 @@ public class ComproProject {
                 }
 
             }
-            if (HolderA == 0 && HolderC == 0) {
+            if (HolderA == 0 && HolderC == 0 && HolderB > 0) {
 
                 System.out.println("**********************");
                 System.out.println("*                    *");
