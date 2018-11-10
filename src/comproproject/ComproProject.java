@@ -68,6 +68,31 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderA <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
+
                         } while (ans.equalsIgnoreCase("no"));
                         break;
 
@@ -96,6 +121,31 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderB <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
+
                         } while (ans.equalsIgnoreCase("no"));
 
                         break;
@@ -123,6 +173,31 @@ public class ComproProject {
                             }
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
+
+                            if (HolderC <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
 
                         } while (ans.equalsIgnoreCase("no"));
                         break;
@@ -173,6 +248,31 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderB <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
+
                         } while (ans.equalsIgnoreCase("no"));
 
                         break;
@@ -201,6 +301,31 @@ public class ComproProject {
                             }
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
+
+                            if (HolderC <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
 
                         } while (ans.equalsIgnoreCase("no"));
                         break;
@@ -251,6 +376,30 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderA <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
                         } while (ans.equalsIgnoreCase("no"));
                         break;
 
@@ -279,6 +428,30 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderC <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
                         } while (ans.equalsIgnoreCase("no"));
                         break;
                 }
@@ -328,6 +501,31 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderA <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
+
                         } while (ans.equalsIgnoreCase("no"));
                         break;
 
@@ -355,6 +553,31 @@ public class ComproProject {
 
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
+
+                            if (HolderB <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
 
                         } while (ans.equalsIgnoreCase("no"));
 
@@ -406,6 +629,30 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderC <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
                         } while (ans.equalsIgnoreCase("no"));
                         break;
                 }
@@ -505,6 +752,31 @@ public class ComproProject {
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
 
+                            if (HolderA <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
+
                         } while (ans.equalsIgnoreCase("no"));
                         break;
                 }
@@ -552,6 +824,31 @@ public class ComproProject {
 
                             System.out.print("TYPE Yes for complete transaction AND TYPE No for Changes: ");
                             ans = alf.next();
+
+                            if (HolderB <= 0) {
+                                System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                ans = alf.next();
+                                if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                    ans = alf.next();
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                    if (ans.equalsIgnoreCase("no")) {
+                                        System.out.print("!WARNING! No more Available Seats Type Yes to exit: ");
+                                        ans = alf.next();
+                                    }
+                                     if (ans.equalsIgnoreCase("no")) {
+                                    System.out.print("AYAW PAG BINOGO E TYPE ANG YES GAGO TANGA INUTIL TARANTADO: ");
+                                    ans = alf.next();
+                                }
+                                }
+                            }
 
                         } while (ans.equalsIgnoreCase("no"));
 
